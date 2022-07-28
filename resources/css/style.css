@@ -3,6 +3,12 @@ body {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-h1 {
-  background-color: aqua;
+.header_main {
+  font-weight: normal;
+  font-size: 50px;
+  color: #ffffff;
+}
+.link_cta {
+  font-size: 16px;
+  color: aquamarine;
 }
