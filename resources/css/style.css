@@ -3,7 +3,7 @@ body {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+/*headers*/
 .header_main {
   font-weight: normal;
   font-size: 50px;
@@ -18,7 +18,14 @@ body {
   font-size: 21px;
   color: gray;
 }
+/*link*/
 .link_cta {
   font-size: 16px;
   color: aquamarine;
+}
+/*Footer*/
+.footer_logo {
+  font-size: 21px;
+  color: gray;
+  text-align: right;
 }
